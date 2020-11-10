@@ -1,4 +1,4 @@
-I am a Denver based iOS Engineer that enjoys solving problems in a way that creates a great user experience. I believe stronly in continuing to learn and improve all the time.
+I am a Denver based iOS Engineer that enjoys solving problems in a way that creates a great user experience. I believe strongly in continuing to learn and improve all the time.
 
 ---
 
