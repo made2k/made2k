@@ -58,10 +58,10 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
       </a>
       <h3>Advanced for Reddit</h3>
       <br />
-      <p><a href="https://github.com/made2k/AdvancedAppPublic">Repo</a></p>
+      <p>Discontinued</p>
       <br />
       <p>
-        (Discontinued) A powerful reddit client built to confirm to iOS standards. Features included: iCloud syncing, the first ever live comment stream for Reddit, multiple accounts, and full split screen iPad support.
+        A powerful reddit client built to confirm to iOS standards. Features included: iCloud syncing, the first ever live comment stream for Reddit, multiple accounts, and full split screen iPad support.
       </p>
     </td>
     <td width="33%" valign="top">
