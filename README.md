@@ -53,15 +53,15 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/made2k/AdvancedAppPublic">
-        <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/dc/e6/09/dce609bb-b8d5-14e5-d443-f4640d9e6ca9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png" width="30%" alt="Advanced" align="right" />
+      <a href="https://github.com/made2k/SunriseFasting">
+        <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/66/53/fe66532d-bb84-2ec7-5532-04cf79d0fcea/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="30%" alt="Sunrise" align="right" />
       </a>
-      <h3>Advanced for Reddit</h3>
+      <h3>Sunrise Fasting</h3>
       <br />
-      <p>Discontinued</p>
-      <br />
+      <p><a href="https://apps.apple.com/us/app/sunrise-fasting/id1581300620">App Store</a></p>
+      <p><a href="https://github.com/made2k/SunriseFasting">GitHub</a></p>
       <p>
-        A powerful reddit client built to confirm to iOS standards. Features included: iCloud syncing, the first ever live comment stream for Reddit, multiple accounts, and full split screen iPad support.
+        A fast, simple, and private intermittent fasting app written with SwiftUI. This app gets out of your way so you can focus just on your fasts.
       </p>
     </td>
     <td width="33%" valign="top">
@@ -79,6 +79,18 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
       <br />
       <p>
         The classic Music Quiz app from the original iPods brought back to a more modern era. Randomly plays music from your library at a random start interval and provides you options to try and guess the song, artist, album, or composer.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/dc/e6/09/dce609bb-b8d5-14e5-d443-f4640d9e6ca9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png" width="30%" alt="Advanced" align="right" />
+      <h3>Advanced for Reddit</h3>
+      <br />
+      <p>Discontinued</p>
+      <br />
+      <p>
+        A powerful reddit client built to confirm to iOS standards. Features included: iCloud syncing, the first ever live comment stream for Reddit, multiple accounts, and full split screen iPad support.
       </p>
     </td>
   </tr>
