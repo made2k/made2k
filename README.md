@@ -9,22 +9,18 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
-      <a href="https://apps.apple.com/us/app/readytalk-conferencing/id776122148">
-        <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/9e/69/09/9e690944-a6e7-19be-848b-04bfd8faf68e/mzl.vhvjjkqb.png/230x0w.webp" width="30%" alt="ReadyTalk" align="right" />
-      </a>
+      <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/9e/69/09/9e690944-a6e7-19be-848b-04bfd8faf68e/mzl.vhvjjkqb.png/230x0w.webp" width="30%" alt="ReadyTalk" align="right" />
       <h3>ReadyTalk iPhone App</h3>
       <br />
-      <p><a href="https://apps.apple.com/us/app/readytalk-conferencing/id776122148">App Store</a></p>
+      <p>Discontinued</p>
       <br />
       <p>An iPhone app to make meetings better. Built in Objective-C it allowed for fast access to meetings from your calendar and let ReadyTalk call you instead of remembering dial-ins and access numbers.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://apps.apple.com/us/app/foxden/id1012044761">
-        <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/70/05/50/700550ec-fab2-aa35-ed24-7d41cfc775fd/mzl.jxkyorqo.png/230x0w.webp" width="30%" alt="FoxDen" align="right" />
-      </a>
+      <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/70/05/50/700550ec-fab2-aa35-ed24-7d41cfc775fd/mzl.jxkyorqo.png/230x0w.webp" width="30%" alt="FoxDen" align="right" />
       <h3>FoxDen</h3>
       <br/>
-      <p><a href="https://apps.apple.com/us/app/foxden/id1012044761">App Store</a></p>
+      <p>Discontinued</p>
       <br/>
       <p>Video collaboration made easy. Built upon WebRTC and XMPP this app delivers a one tap entry into your meetings. Pairing it with our hardware in-room system allowed easy conferencing at your fingertips.</p>
     </td>
@@ -43,7 +39,7 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
       <br/>
       <p><a href="https://apps.apple.com/us/app/rachio/id864325098">App Store</a></p>
       <br/>
-      <p>An IoT app built in Swift. Features communication with Rachio's Smart Irrigation system.</p>
+      <p>Connect outdoors with the Rachio application. Written in Swift, the Rachio app allows for easy control for your outdoor smart devices. Whether it's controlling your sprinklers or checking the weather the Rachio app has you covered.</p>
     </td>
   </tr>
 </table>
@@ -54,7 +50,7 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/made2k/SunriseFasting">
-        <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/66/53/fe66532d-bb84-2ec7-5532-04cf79d0fcea/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="30%" alt="Sunrise" align="right" />
+        <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/66/53/fe66532d-bb84-2ec7-5532-04cf79d0fcea/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="30%" alt="Sunrise" align="right" style="border-radius: 30px;"/>
       </a>
       <h3>Sunrise Fasting</h3>
       <br />
