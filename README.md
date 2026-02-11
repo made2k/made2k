@@ -29,12 +29,12 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
     <td width="33%" valign="top">
       <a href="https://apps.apple.com/us/app/rachio/id864325098">
         <img
-          src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/37/3f/a9373f18-c970-5f0b-62f6-22f6d0dbd8e5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp"
+          src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/1d/f4/e31df404-f3a7-0efe-f027-96b8d2e69eac/Placeholder.mill/400x400bb-75.webp"
           width="30%"
           alt="Rachio"
           align="right"
         />
-        <h3>Rachio</h3>
+      <h3>Rachio</h3>
       </a>
       <br/>
       <p><a href="https://apps.apple.com/us/app/rachio/id864325098">App Store</a></p>
@@ -54,7 +54,8 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
       </a>
       <h3>Sunrise Fasting</h3>
       <br />
-      <p><a href="https://apps.apple.com/us/app/sunrise-fasting/id1581300620">App Store</a></p>
+      <!-- <p><a href="https://apps.apple.com/us/app/sunrise-fasting/id1581300620">App Store</a></p> -->
+      <p>Discontinued</p>
       <p><a href="https://github.com/made2k/SunriseFasting">GitHub</a></p>
       <p>
         A fast, simple, and private intermittent fasting app written with SwiftUI. This app gets out of your way so you can focus just on your fasts.
@@ -71,7 +72,8 @@ I am a Denver based iOS Engineer that enjoys solving problems in a way that crea
       </a>
       <h3>Music Quiz</h3>
       <br />
-      <p><a href="https://apps.apple.com/us/app/music-quiz-know-your-library/id878463689">App Store</a></p>
+      <!-- <p><a href="https://apps.apple.com/us/app/music-quiz-know-your-library/id878463689">App Store</a></p> -->
+      <p>Discontinued</p>
       <br />
       <p>
         The classic Music Quiz app from the original iPods brought back to a more modern era. Randomly plays music from your library at a random start interval and provides you options to try and guess the song, artist, album, or composer.
